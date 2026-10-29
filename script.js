@@ -1,4 +1,4 @@
-```javascript
+
 document.getElementById("calculateBtn").addEventListener("click", function () {
 
     const areaInput = document.getElementById("area");
@@ -32,4 +32,4 @@ document.getElementById("calculateBtn").addEventListener("click", function () {
         " litres (before collection losses).";
 
 });
-```
+
